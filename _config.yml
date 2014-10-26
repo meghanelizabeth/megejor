@@ -1,0 +1,12 @@
+# Site settings
+title: megejor
+email: meghanelizabethj@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A software engineering blog for pinterest-minded people.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://megejor.com" # the base hostname & protocol for your site
+twitter_username: megejor
+github_username:  meghanelizabeth
+
+# Build settings
+markdown: kramdown
