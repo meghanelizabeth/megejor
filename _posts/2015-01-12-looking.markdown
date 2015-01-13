@@ -2,7 +2,6 @@
 layout: post
 title:  "Looking for inspiration"
 date:   2015-01-12 15:36:14
-img: cafe
 categories: jekyll update
 ---
 ![cafe]({{ site.url }}/mcnj.png)
