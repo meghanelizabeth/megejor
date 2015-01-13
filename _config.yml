@@ -2,13 +2,23 @@
 title: megejor
 email: meghanelizabethj@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
+<<<<<<< HEAD
   the unblog.
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://megejor.com" # the base hostname & protocol for your site
 url: "http://localhost:4000"
 twitter_username:
+=======
+  A software engineering blog for pinterest-minded people.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://megejor.com" # the base hostname & protocol for your site
+twitter_username: megejor
+>>>>>>> 3455b64bdcab121188fb93ee04ea88cb8960106d
 github_username:  meghanelizabeth
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 permalink: pretty
+=======
+>>>>>>> 3455b64bdcab121188fb93ee04ea88cb8960106d

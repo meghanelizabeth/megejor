@@ -1,5 +1,6 @@
 ---
 layout: page
+<<<<<<< HEAD
 title: love day
 permalink: /loveDay/
 ---
@@ -21,5 +22,14 @@ brunch at the standard
 
 finish with a stroll through the museum
 ![muse]({{ site.url }}/NewMuse.png)
+=======
+title: About
+permalink: /home/
+---
+
+Welcome!
+
+Official information for the Christmas Ornament Exchange can be found here:
+>>>>>>> 3455b64bdcab121188fb93ee04ea88cb8960106d
 
 <!--You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)-->
